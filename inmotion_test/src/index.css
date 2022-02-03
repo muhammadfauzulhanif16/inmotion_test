@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.dot {
+  background-image: url("./icon/dot.png");
+}
+
+#dot1 {
+  left: 35rem;
+}
+
+#dot2 {
+  top: 59.5rem;
+  left: 9rem;
+}

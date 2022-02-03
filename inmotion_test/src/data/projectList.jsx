@@ -1,0 +1,40 @@
+export const Projects = [
+  {
+    name: "Green House",
+    init: "GH",
+    pS: "bottom-12 left-12",
+    pC: "top-12 right-12",
+    outline: "outline-pink-500",
+  },
+  {
+    name: "Cyber Punk",
+    init: "CP",
+    pS: "top-14 right-14",
+    pC: "bottom-10 left-10",
+    outline: "outline-cyan-500",
+    isActive: true,
+  },
+  {
+    name: "Easy Crypto",
+    init: "EC",
+    pS: "bottom-16 right-16",
+    pC: "top-16",
+    outline: "outline-violet-500",
+    isNotif: true,
+  },
+  {
+    name: "Travel App",
+    init: "TA",
+    pS: "top-16 left-16",
+    pC: "right-14",
+    outline: "outline-blue-500",
+  },
+  {
+    name: "Landing Page",
+    init: "LP",
+    pS: "bottom-16 right-7",
+    pC: "top-16 left-10",
+    outline: "outline-orange-500",
+    isNotif: true,
+  },
+];
